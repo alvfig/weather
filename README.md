@@ -1,3 +1,3 @@
 # Weather Station Service
 
-A DHT22 on a Raspberry Pi 3B+
+A DHT22 sensor on a Raspberry Pi 3B+
